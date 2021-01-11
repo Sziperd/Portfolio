@@ -1,0 +1,3 @@
+This was my first ever project created for computer programming course. It was written in C and required user to input a list of words they want to learn. It would then show a word in one language in a user and ask to translate it. If the translation was right user could go to the next word.
+!notice! internal path in code is needed to be  changed according to the path of your choice. Unfortunatelly i wasn't skilled enough back then to make it work seamlessly.
+"Ffile" file is a placeholder file with starter words. You can try plugging it in to see how the program works.  
