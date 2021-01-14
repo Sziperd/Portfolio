@@ -153,13 +153,61 @@ int main(int argc, const char * argv[]) {
     
     //check witch [x][y] double..
     
+    int feasible;
+    
+    
+   
+    
+    int maybefeasible1 = 100000;
+    int maybefeasible2 = 100000;
+    int maybefeasible3 = 100000;
     
     if (memory1 == memory4)
-        cout << endl <<"There is an equilibrum point in first column in: "<< matrixx1 << endl;
+    {  cout << endl <<"There is an equilibrum point in first column in: "<< matrixx1 << endl;
+        maybefeasible1 = memory1;
+    }
+    
     if (memory2 ==memory5)
-        cout << endl <<"There is an equilibrum point in second column in: "<< matrixx2 << endl;
+    {cout << endl <<"There is an equilibrum point in second column in: "<< matrixx2 << endl;
+    
+        maybefeasible2 = memory2;
+    }
     if (memory3 == memory6)
-        cout << endl <<"There is an equilibrum point in third column in: "<< matrixx3 << endl << endl;
+    {cout << endl <<"There is an equilibrum point in third column in: "<< matrixx3 << endl << endl;
+        maybefeasible3 = memory3;
+        
+    }
+    
+    
+    
+    string feasiblepointmatrix;
+    
+    //feasibility check.. making sure 2 players pick the same equilibrum point... either way it won't be profitable for any of the players..
+   
+    
+    //Nash equilibrum is feasible if there exist no better strategy..
+    
+    
+    
+    if (maybefeasible1 < maybefeasible2 && maybefeasible1 < maybefeasible3) {
+        feasible = maybefeasible1;
+        feasiblepointmatrix = matrixx1;
+        
+        
+    }
+    if (maybefeasible2 < maybefeasible1 && maybefeasible2 < maybefeasible3) {feasible = maybefeasible2;
+        feasiblepointmatrix = matrixx2;
+    }
+    if (maybefeasible3 < maybefeasible1 && maybefeasible3 < maybefeasible2) {feasible = maybefeasible3;
+        feasiblepointmatrix = matrixx3;
+    }
+    
+    cout << "!!!!!!!!!!!!!!!!!!!!!!!!!!" << endl;
+    cout << endl << "Feasible solution is: " << feasible << endl;
+    cout << endl << " that occurs in: " << feasiblepointmatrix << endl;
+    cout << endl << "!!!!!!!!!!!!!!!!!!!!!!!!!!" << endl;
+    
+    cout << endl << endl << "(keep in mind that matrix starts from [0][0] and means first row and first column so analogically [2][2] means third row and third column.) " << endl << endl;
     
     
     cout << endl << "----------------------------  " << endl << endl ;
