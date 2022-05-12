@@ -1,0 +1,274 @@
+writing in file
+(First pair num, Distance, Path)
+
+Number of route:1
+(1 -> 2, 2.14748e+09, 1 -> 2)
+
+Number of route:2
+(1 -> 3, 2, 1 -> 9 -> 3)
+
+Number of route:3
+(1 -> 4, 2, 1 -> 9 -> 4)
+
+Number of route:4
+(1 -> 5, 2, 1 -> 9 -> 5)
+
+Number of route:5
+(1 -> 6, 2, 1 -> 6)
+
+Number of route:6
+(1 -> 7, 5, 1 -> 7)
+
+Number of route:7
+(1 -> 8, 3, 1 -> 9 -> 5 -> 8)
+
+Number of route:8
+(1 -> 9, 1, 1 -> 9)
+
+Number of route:9
+(1 -> 10, 6, 1 -> 9 -> 5 -> 10)
+
+Number of route:10
+(2 -> 1, 3, 2 -> 1)
+
+Number of route:11
+(2 -> 3, 5, 2 -> 1 -> 9 -> 3)
+
+Number of route:12
+(2 -> 4, 5, 2 -> 1 -> 9 -> 4)
+
+Number of route:13
+(2 -> 5, 5, 2 -> 1 -> 9 -> 5)
+
+Number of route:14
+(2 -> 6, 1, 2 -> 6)
+
+Number of route:15
+(2 -> 7, 5, 2 -> 6 -> 7)
+
+Number of route:16
+(2 -> 8, 4, 2 -> 8)
+
+Number of route:17
+(2 -> 9, 4, 2 -> 1 -> 9)
+
+Number of route:18
+(2 -> 10, 9, 2 -> 1 -> 9 -> 5 -> 10)
+
+Number of route:19
+(3 -> 1, 8, 3 -> 4 -> 1)
+
+Number of route:20
+(3 -> 2, 2.14748e+09, 3 -> 2)
+
+Number of route:21
+(3 -> 4, 4, 3 -> 4)
+
+Number of route:22
+(3 -> 5, 6, 3 -> 4 -> 9 -> 5)
+
+Number of route:23
+(3 -> 6, 4, 3 -> 6)
+
+Number of route:24
+(3 -> 7, 6, 3 -> 7)
+
+Number of route:25
+(3 -> 8, 7, 3 -> 4 -> 9 -> 5 -> 8)
+
+Number of route:26
+(3 -> 9, 5, 3 -> 4 -> 9)
+
+Number of route:27
+(3 -> 10, 10, 3 -> 4 -> 9 -> 5 -> 10)
+
+Number of route:28
+(4 -> 1, 4, 4 -> 1)
+
+Number of route:29
+(4 -> 2, 2.14748e+09, 4 -> 2)
+
+Number of route:30
+(4 -> 3, 2, 4 -> 9 -> 3)
+
+Number of route:31
+(4 -> 5, 2, 4 -> 9 -> 5)
+
+Number of route:32
+(4 -> 6, 2, 4 -> 6)
+
+Number of route:33
+(4 -> 7, 6, 4 -> 6 -> 7)
+
+Number of route:34
+(4 -> 8, 3, 4 -> 9 -> 5 -> 8)
+
+Number of route:35
+(4 -> 9, 1, 4 -> 9)
+
+Number of route:36
+(4 -> 10, 6, 4 -> 9 -> 5 -> 10)
+
+Number of route:37
+(5 -> 1, 7, 5 -> 8 -> 4 -> 1)
+
+Number of route:38
+(5 -> 2, 2.14748e+09, 5 -> 2)
+
+Number of route:39
+(5 -> 3, 5, 5 -> 8 -> 9 -> 3)
+
+Number of route:40
+(5 -> 4, 3, 5 -> 8 -> 4)
+
+Number of route:41
+(5 -> 6, 5, 5 -> 8 -> 4 -> 6)
+
+Number of route:42
+(5 -> 7, 6, 5 -> 8 -> 7)
+
+Number of route:43
+(5 -> 8, 1, 5 -> 8)
+
+Number of route:44
+(5 -> 9, 4, 5 -> 8 -> 9)
+
+Number of route:45
+(5 -> 10, 4, 5 -> 10)
+
+Number of route:46
+(6 -> 1, 10, 6 -> 9 -> 4 -> 1)
+
+Number of route:47
+(6 -> 2, 2.14748e+09, 6 -> 2)
+
+Number of route:48
+(6 -> 3, 5, 6 -> 7 -> 3)
+
+Number of route:49
+(6 -> 4, 6, 6 -> 9 -> 4)
+
+Number of route:50
+(6 -> 5, 6, 6 -> 9 -> 5)
+
+Number of route:51
+(6 -> 7, 4, 6 -> 7)
+
+Number of route:52
+(6 -> 8, 7, 6 -> 9 -> 5 -> 8)
+
+Number of route:53
+(6 -> 9, 5, 6 -> 9)
+
+Number of route:54
+(6 -> 10, 10, 6 -> 7 -> 10)
+
+Number of route:55
+(7 -> 1, 8, 7 -> 9 -> 4 -> 1)
+
+Number of route:56
+(7 -> 2, 2.14748e+09, 7 -> 2)
+
+Number of route:57
+(7 -> 3, 1, 7 -> 3)
+
+Number of route:58
+(7 -> 4, 4, 7 -> 9 -> 4)
+
+Number of route:59
+(7 -> 5, 4, 7 -> 9 -> 5)
+
+Number of route:60
+(7 -> 6, 5, 7 -> 3 -> 6)
+
+Number of route:61
+(7 -> 8, 4, 7 -> 8)
+
+Number of route:62
+(7 -> 9, 3, 7 -> 9)
+
+Number of route:63
+(7 -> 10, 6, 7 -> 10)
+
+Number of route:64
+(8 -> 1, 6, 8 -> 4 -> 1)
+
+Number of route:65
+(8 -> 2, 2.14748e+09, 8 -> 2)
+
+Number of route:66
+(8 -> 3, 4, 8 -> 9 -> 3)
+
+Number of route:67
+(8 -> 4, 2, 8 -> 4)
+
+Number of route:68
+(8 -> 5, 4, 8 -> 9 -> 5)
+
+Number of route:69
+(8 -> 6, 4, 8 -> 4 -> 6)
+
+Number of route:70
+(8 -> 7, 5, 8 -> 7)
+
+Number of route:71
+(8 -> 9, 3, 8 -> 9)
+
+Number of route:72
+(8 -> 10, 8, 8 -> 9 -> 5 -> 10)
+
+Number of route:73
+(9 -> 1, 5, 9 -> 4 -> 1)
+
+Number of route:74
+(9 -> 2, 2.14748e+09, 9 -> 2)
+
+Number of route:75
+(9 -> 3, 1, 9 -> 3)
+
+Number of route:76
+(9 -> 4, 1, 9 -> 4)
+
+Number of route:77
+(9 -> 5, 1, 9 -> 5)
+
+Number of route:78
+(9 -> 6, 3, 9 -> 4 -> 6)
+
+Number of route:79
+(9 -> 7, 7, 9 -> 3 -> 7)
+
+Number of route:80
+(9 -> 8, 2, 9 -> 5 -> 8)
+
+Number of route:81
+(9 -> 10, 5, 9 -> 5 -> 10)
+
+Number of route:82
+(10 -> 1, 4, 10 -> 1)
+
+Number of route:83
+(10 -> 2, 2.14748e+09, 10 -> 2)
+
+Number of route:84
+(10 -> 3, 5, 10 -> 8 -> 9 -> 3)
+
+Number of route:85
+(10 -> 4, 3, 10 -> 8 -> 4)
+
+Number of route:86
+(10 -> 5, 2, 10 -> 5)
+
+Number of route:87
+(10 -> 6, 4, 10 -> 6)
+
+Number of route:88
+(10 -> 7, 6, 10 -> 7)
+
+Number of route:89
+(10 -> 8, 1, 10 -> 8)
+
+Number of route:90
+(10 -> 9, 4, 10 -> 8 -> 9)
+
+Number of iterations needed: 85
